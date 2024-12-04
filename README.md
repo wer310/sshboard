@@ -1,2 +1,2 @@
 # SSH Board
-Run and get fun!™
+Just run and get fun!™
